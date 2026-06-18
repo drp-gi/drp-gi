@@ -1,6 +1,8 @@
 <div align="center">
 <div align="center">
+
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=D9BEDE&height=120&section=header)
+
 </div>
 
 
@@ -35,7 +37,7 @@ Studying Information Technology
 </tr>
 </table>
 
-<br>
+
 
 
 
