@@ -27,7 +27,7 @@ Studying Information Technology
 
 <td align="center">
 <b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js&size=10" />
+<img src="https://skillicons.dev/icons?i=c&size=6" />
 </td>
 
 <td align="center">
