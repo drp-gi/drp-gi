@@ -1,5 +1,5 @@
-<div align="center">
-![Header Banner](https://camo.githubusercontent.com/dd077fe3917fd58a866028777667b7331647687f76ad8a09ead8da4c1a0c8bcd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d443942454431266865696768743d3132302673656374696f6e3d686561646572)
+
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=D9BEDE&height=120&section=header)
 
 
 
@@ -13,7 +13,7 @@
 
 <br>
 
-
+<div align="center">
 ## 💻 Skill Set
 
 <table>
@@ -37,7 +37,7 @@
 
 <br>
 
-
+</div>
 
 ## ⌯⌲ Connect With Me
 
