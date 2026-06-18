@@ -3,9 +3,7 @@
 
 
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat+Brush&pause=1000&color=EB47F7&center=true&vCenter=true&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92+100%25;Hi+there!+Welcomeeee...;Nothing+to+see+here+really+%3A(;%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5)](https://git.io/typing-svg)
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&pause=1000&color=EB47F7&center=true&vCenter=true&width=435&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%92%E2%96%92%E2%96%92+100%25;Hi+there!+Welcomeeee...;Nothing+to+see+here+really+%3A(;%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5%C2%B0%E2%9D%80%E2%8B%86.%E0%B3%83%E0%BF%94*%3A%EF%BD%A5" alt="Typing SVG" /></a>
 
 Skills(?)
 [![My Skills](https://skillicons.dev/icons?i=html,css,github,mint,mint,pr,sqlite,figma)](https://skillicons.dev)
