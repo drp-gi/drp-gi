@@ -22,17 +22,17 @@ Studying Information Technology
 <tr>
 <td align="center">
 <b>Frontend</b><br><br>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js&size=24" />
 </td>
 
 <td align="center">
 <b>Languages</b><br><br>
-<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=html,css,js&size=24" />
 </td>
 
 <td align="center">
 <b>Others</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,mint,figma,vscode,ps,pr,sqlite" />
+<img src="https://skillicons.dev/icons?i=git,github,mint,figma,vscode,ps,pr,sqlite&size=24" />
 </td>
 </tr>
 </table>
